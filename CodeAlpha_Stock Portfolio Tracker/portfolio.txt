@@ -1,0 +1,5 @@
+Stock Portfolio
+AAPL 50 180 9000
+TSLA	25 250 6250
+MSFT 10 300 3000
+Total      18250
